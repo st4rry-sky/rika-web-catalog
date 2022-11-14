@@ -4,7 +4,7 @@ import meetingTableBlue from '../Images/Table Blue.png';
 import meetingTableFull from '../Images/Meeting Table Blue (Full Aset).jpg';
 import singleLounge from '../Images/Single Lounge.jpeg';
 import tableYellow from '../Images/Table Yellow.png';
-import tableYellowSet from '../Images/Table Yellow.png';
+import tableYellowSet from '../Images/Meeting Table Yellow (Set).jpeg';
 import officeLounge from '../Images/Office Lounge.jpeg';
 
 export const data =
