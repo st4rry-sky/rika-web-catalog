@@ -1,5 +1,3 @@
-import { useState } from 'react';
-import { useQuery } from 'react-query';
 // Pages 
 import TransactionList from './Pages/TransactionList';
 
