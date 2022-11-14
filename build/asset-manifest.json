@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.04d5e31e.chunk.js",
+    "main.js.map": "/static/js/main.04d5e31e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ddb27d40.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ddb27d40.js.map",
+    "static/js/2.8b580fbc.chunk.js": "/static/js/2.8b580fbc.chunk.js",
+    "static/js/2.8b580fbc.chunk.js.map": "/static/js/2.8b580fbc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.8b580fbc.chunk.js.LICENSE.txt": "/static/js/2.8b580fbc.chunk.js.LICENSE.txt",
+    "static/media/Bookcase.a7ff1c24.jpg": "/static/media/Bookcase.a7ff1c24.jpg",
+    "static/media/Meeting Table Blue (Full Aset).0d2bb168.jpg": "/static/media/Meeting Table Blue (Full Aset).0d2bb168.jpg",
+    "static/media/Office Chair.41939a3c.png": "/static/media/Office Chair.41939a3c.png",
+    "static/media/Office Lounge.9314998e.jpeg": "/static/media/Office Lounge.9314998e.jpeg",
+    "static/media/Single Lounge.aa42d9eb.jpeg": "/static/media/Single Lounge.aa42d9eb.jpeg",
+    "static/media/Table Blue.d58ffff0.png": "/static/media/Table Blue.d58ffff0.png",
+    "static/media/Table Yellow.452f42ea.png": "/static/media/Table Yellow.452f42ea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddb27d40.js",
+    "static/js/2.8b580fbc.chunk.js",
+    "static/js/main.04d5e31e.chunk.js"
+  ]
+}
